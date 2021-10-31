@@ -1,0 +1,32 @@
+{
+    "employees" :[
+        {
+            "emp_no": "1",
+            "dep_no": "1",
+            "name": "Employee One",
+            "gender": "F",
+            "salary": "5000e"
+        },
+        {
+            "emp_no": "2",
+            "dep_no": "2",
+            "name": "Employee Two",
+            "gender": "M",
+            "salary": "7500e"
+        },
+        {
+            "emp_no": "3",
+            "dep_no": "1",
+            "name": "Employee Three",
+            "gender": "M",
+            "salary": "10000e"
+        },
+        {
+            "emp_no": "4",
+            "dep_no": "2",
+            "name": "Employee Four",
+            "gender": "F",
+            "salary": "500e"
+        }
+    ]
+}
